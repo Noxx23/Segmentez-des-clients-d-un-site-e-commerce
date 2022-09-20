@@ -3,3 +3,10 @@
 - Dans un deuxième temps, une fois le modèle de segmentation choisi, nous souhaiterions  que vous nous fassiez une recommandation de fréquence à laquelle la segmentation doit être mise à jour pour rester pertinente, afin de pouvoir effectuer un devis de contrat de maintenance.  
 
 Pour information, le code fourni doit respecter la convention PEP8, pour être utilisable par Olist.
+
+## Compétences évaluées
+
+- [ ] Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
+- [ ] Évaluer les performances d’un modèle d'apprentissage non supervisé
+- [ ] Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
+- [ ] Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
